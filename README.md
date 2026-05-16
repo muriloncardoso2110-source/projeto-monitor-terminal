@@ -10,8 +10,6 @@ Eu queria uma ferramenta simples para rodar no terminal e acompanhar o uso da m�
 - **Explorador de Arquivos:** Mostra os primeiros 10 arquivos do diretório atual para dar um feedback rápido de I/O.
 - **Visual Organizado:** Divisão de tela feita com o sistema de layouts e painéis da biblioteca `rich`.
 
-## 🚀 Como rodar na sua máquina
-
 # Exemplo de como fica
 
 <img width="1134" height="564" alt="image" src="https://github.com/user-attachments/assets/8d7ab5f3-719d-47c7-947b-5c50d2602ed0" />
